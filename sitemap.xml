@@ -31,6 +31,216 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://builders.infinity6.ai/ajuda/solucao-de-problemas</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/ajuda/solucao-de-problemas" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/ajuda/solucao-de-problemas" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/ajuda/solucao-de-problemas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/ajuda/solucao-de-problemas" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/en/ajuda/solucao-de-problemas</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/ajuda/solucao-de-problemas" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/ajuda/solucao-de-problemas" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/ajuda/solucao-de-problemas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/ajuda/solucao-de-problemas" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/es/ajuda/solucao-de-problemas</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/ajuda/solucao-de-problemas" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/ajuda/solucao-de-problemas" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/ajuda/solucao-de-problemas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/ajuda/solucao-de-problemas" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/autenticacao/visao-geral</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/autenticacao/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/autenticacao/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/autenticacao/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/autenticacao/visao-geral" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/en/autenticacao/visao-geral</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/autenticacao/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/autenticacao/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/autenticacao/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/autenticacao/visao-geral" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/es/autenticacao/visao-geral</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/autenticacao/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/autenticacao/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/autenticacao/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/autenticacao/visao-geral" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/autenticacao/fluxo-de-login</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/autenticacao/fluxo-de-login" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/autenticacao/fluxo-de-login" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/autenticacao/fluxo-de-login" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/autenticacao/fluxo-de-login" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/en/autenticacao/fluxo-de-login</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/autenticacao/fluxo-de-login" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/autenticacao/fluxo-de-login" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/autenticacao/fluxo-de-login" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/autenticacao/fluxo-de-login" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/es/autenticacao/fluxo-de-login</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/autenticacao/fluxo-de-login" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/autenticacao/fluxo-de-login" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/autenticacao/fluxo-de-login" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/autenticacao/fluxo-de-login" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/autenticacao/verificando-sessao</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/autenticacao/verificando-sessao" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/autenticacao/verificando-sessao" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/autenticacao/verificando-sessao" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/autenticacao/verificando-sessao" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/en/autenticacao/verificando-sessao</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/autenticacao/verificando-sessao" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/autenticacao/verificando-sessao" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/autenticacao/verificando-sessao" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/autenticacao/verificando-sessao" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/es/autenticacao/verificando-sessao</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/autenticacao/verificando-sessao" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/autenticacao/verificando-sessao" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/autenticacao/verificando-sessao" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/autenticacao/verificando-sessao" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/autenticacao/cookies-e-cors</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/autenticacao/cookies-e-cors" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/autenticacao/cookies-e-cors" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/autenticacao/cookies-e-cors" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/autenticacao/cookies-e-cors" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/en/autenticacao/cookies-e-cors</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/autenticacao/cookies-e-cors" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/autenticacao/cookies-e-cors" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/autenticacao/cookies-e-cors" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/autenticacao/cookies-e-cors" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/es/autenticacao/cookies-e-cors</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/autenticacao/cookies-e-cors" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/autenticacao/cookies-e-cors" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/autenticacao/cookies-e-cors" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/autenticacao/cookies-e-cors" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/elastic-price/visao-geral</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/elastic-price/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/elastic-price/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/elastic-price/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/elastic-price/visao-geral" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/en/elastic-price/visao-geral</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/elastic-price/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/elastic-price/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/elastic-price/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/elastic-price/visao-geral" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/es/elastic-price/visao-geral</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/elastic-price/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/elastic-price/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/elastic-price/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/elastic-price/visao-geral" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/previsio/visao-geral</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/previsio/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/previsio/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/previsio/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/previsio/visao-geral" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/en/previsio/visao-geral</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/previsio/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/previsio/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/previsio/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/previsio/visao-geral" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/es/previsio/visao-geral</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/previsio/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/previsio/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/previsio/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/previsio/visao-geral" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://builders.infinity6.ai/primeiros-passos/instalacao</loc>
     <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/primeiros-passos/instalacao" />
     <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/primeiros-passos/instalacao" />
@@ -116,6 +326,126 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/primeiros-passos/qual-engine-eu-uso" />
     <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/primeiros-passos/qual-engine-eu-uso" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/primeiros-passos/qual-engine-eu-uso" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/recsys/visao-geral</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/recsys/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/recsys/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/recsys/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/recsys/visao-geral" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/en/recsys/visao-geral</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/recsys/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/recsys/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/recsys/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/recsys/visao-geral" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/es/recsys/visao-geral</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/recsys/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/recsys/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/recsys/visao-geral" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/recsys/visao-geral" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/referencia-sdk/sdk</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/referencia-sdk/sdk" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/referencia-sdk/sdk" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/referencia-sdk/sdk" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/referencia-sdk/sdk" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/en/referencia-sdk/sdk</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/referencia-sdk/sdk" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/referencia-sdk/sdk" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/referencia-sdk/sdk" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/referencia-sdk/sdk" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/es/referencia-sdk/sdk</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/referencia-sdk/sdk" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/referencia-sdk/sdk" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/referencia-sdk/sdk" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/referencia-sdk/sdk" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/referencia-sdk/auth</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/referencia-sdk/auth" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/referencia-sdk/auth" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/referencia-sdk/auth" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/referencia-sdk/auth" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/en/referencia-sdk/auth</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/referencia-sdk/auth" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/referencia-sdk/auth" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/referencia-sdk/auth" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/referencia-sdk/auth" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/es/referencia-sdk/auth</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/referencia-sdk/auth" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/referencia-sdk/auth" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/referencia-sdk/auth" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/referencia-sdk/auth" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/referencia-sdk/ingest</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/referencia-sdk/ingest" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/referencia-sdk/ingest" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/referencia-sdk/ingest" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/referencia-sdk/ingest" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/en/referencia-sdk/ingest</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/referencia-sdk/ingest" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/referencia-sdk/ingest" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/referencia-sdk/ingest" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/referencia-sdk/ingest" />
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://builders.infinity6.ai/es/referencia-sdk/ingest</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://builders.infinity6.ai/referencia-sdk/ingest" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://builders.infinity6.ai/en/referencia-sdk/ingest" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://builders.infinity6.ai/es/referencia-sdk/ingest" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://builders.infinity6.ai/referencia-sdk/ingest" />
     <lastmod>2026-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
