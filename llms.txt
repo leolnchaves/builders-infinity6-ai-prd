@@ -4,17 +4,26 @@ Portal oficial de documentação técnica da infinity6.
 Idiomas: pt-BR (https://builders.infinity6.ai/), en-US (https://builders.infinity6.ai/en), es-ES (https://builders.infinity6.ai/es).
 
 ## Páginas
+- [Agentes](https://builders.infinity6.ai/agentes/visao-geral): Dispare agentes da plataforma a partir da sua página com o SDK web.
 - [Solução de problemas](https://builders.infinity6.ai/ajuda/solucao-de-problemas): Sintomas comuns ao integrar o SDK web, com a causa e o que verificar em cada um.
 - [Visão geral](https://builders.infinity6.ai/autenticacao/visao-geral): Autenticação do SDK web por sessão de cookie definida pela plataforma.
 - [Fluxo de login](https://builders.infinity6.ai/autenticacao/fluxo-de-login): Como o SDK monta a URL de login e encaminha o navegador.
 - [Verificando a sessão](https://builders.infinity6.ai/autenticacao/verificando-sessao): Leia o usuário atual da sessão com o SDK web.
 - [Cookies e CORS](https://builders.infinity6.ai/autenticacao/cookies-e-cors): Requisitos de cookie e CORS para a sessão funcionar entre origens.
-- [i6ElasticPrice](https://builders.infinity6.ai/elastic-price/visao-geral): Em breve. Estimativa de sensibilidade a preço e de trade-off entre volume e margem em cada cenário simulado.
-- [i6Previsio](https://builders.infinity6.ai/previsio/visao-geral): Em breve. Projeção de comportamento futuro de demanda, volume e capacidade em diferentes horizontes e níveis de agregação.
+- [Download Guide](https://builders.infinity6.ai/download-guide/visao-geral): Guias rápidos, diagramas e recursos de apoio para download.
+- [i6ElasticPrice](https://builders.infinity6.ai/elastic-price/visao-geral): Estimativa de sensibilidade a preço e de trade-off entre volume e margem em cada cenário simulado.
+- [Verificar a sessão sem redirecionar](https://builders.infinity6.ai/exemplos/verificar-sessao-sem-redirecionar): Exemplo de como consultar a sessão com user() e tratar a ausência de login na sua própria interface, sem iniciar o redirecionamento automático.
+- [Enviar vários arquivos em sequência](https://builders.infinity6.ai/exemplos/multiplos-uploads): Exemplo de como percorrer uma lista de arquivos e chamar upload() para cada um, com sessão garantida no carregamento da página.
+- [Glossário](https://builders.infinity6.ai/glossario/visao-geral): Termos e conceitos fundamentais da plataforma e do SDK web, reunidos em ordem alfabética.
+- [Da instalação ao primeiro upload](https://builders.infinity6.ai/guias/da-instalacao-ao-primeiro-upload): Guia passo a passo reunindo a inclusão do SDK, verificação de sessão e envio de arquivo com tratamento de erros.
+- [Pesquisa](https://builders.infinity6.ai/pesquisa/visao-geral): Produção científica e técnica de Everton Gago, cofundador e COO da infinity6.
+- [i6Previsio](https://builders.infinity6.ai/previsio/visao-geral): Projeção de comportamento futuro de demanda, volume e capacidade em diferentes horizontes e níveis de agregação.
 - [Instalação](https://builders.infinity6.ai/primeiros-passos/instalacao): Carregue o SDK web da infinity6 pelo bundle no navegador.
 - [Primeira chamada](https://builders.infinity6.ai/primeiros-passos/primeira-chamada): Garanta a sessão do usuário e envie um arquivo pelo Ingest.
 - [Qual engine eu uso?](https://builders.infinity6.ai/primeiros-passos/qual-engine-eu-uso): Descubra qual motor de decisão alimenta cada produto da i6 Decision Suite.
-- [i6RecSys](https://builders.infinity6.ai/recsys/visao-geral): Em breve. Priorização de itens, públicos e combinações pela probabilidade de resposta em cada contexto.
+- [i6RecSys](https://builders.infinity6.ai/recsys/visao-geral): Priorização de itens, públicos e combinações pela probabilidade de resposta em cada contexto.
 - [I6Sdk](https://builders.infinity6.ai/referencia-sdk/sdk): Construtor do SDK web e acesso aos serviços.
 - [auth()](https://builders.infinity6.ai/referencia-sdk/auth): Referência de user() e requireUser().
 - [ingest()](https://builders.infinity6.ai/referencia-sdk/ingest): Referência de upload() para envio de arquivos.
+- [Video Tour](https://builders.infinity6.ai/video-tour/visao-geral): Aulas e demonstrações guiadas em vídeo para integrar a plataforma infinity6.
+- [Webhooks](https://builders.infinity6.ai/webhooks/visao-geral): Assine eventos da plataforma e receba notificações em um endereço seu.

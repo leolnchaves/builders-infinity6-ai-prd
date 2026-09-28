@@ -1,0 +1,1 @@
+import{_ as e,k as t}from"./docs-1pgrMOkk.js";import{n,t as r}from"./docs-portal-C-USAXWa.js";var i=t();function a(){return(0,i.jsx)(n,{locale:e,children:(0,i.jsx)(r,{})})}export{a as component};
