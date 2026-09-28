@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://builders.infinity6.ai/sitemap.xml

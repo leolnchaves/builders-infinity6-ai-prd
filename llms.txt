@@ -1,0 +1,9 @@
+# builders.infinity6.ai
+
+Portal oficial de documentação técnica da infinity6.
+Idiomas: pt-BR (https://builders.infinity6.ai/), en-US (https://builders.infinity6.ai/en), es-ES (https://builders.infinity6.ai/es).
+
+## Páginas
+- [Instalação](https://builders.infinity6.ai/primeiros-passos/instalacao): Instale o SDK da infinity6 e configure sua chave de API.
+- [Primeira chamada](https://builders.infinity6.ai/primeiros-passos/primeira-chamada): Execute seu primeiro agente e leia a resposta de decisão.
+- [Qual engine eu uso?](https://builders.infinity6.ai/primeiros-passos/qual-engine-eu-uso): Descubra qual motor de decisão alimenta cada produto da i6 Decision Suite.
