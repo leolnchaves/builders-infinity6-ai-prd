@@ -1,0 +1,1 @@
+import{A as e,h as t}from"./docs-CfYyAJXF.js";import{n,t as r}from"./docs-portal-C8cJSm3F.js";import{n as i}from"./index-BP2v_af2.js";var a=e();function o(){let{lang:e}=i.useLoaderData();return(0,a.jsx)(n,{locale:t(e),children:(0,a.jsx)(r,{})})}export{o as component};
